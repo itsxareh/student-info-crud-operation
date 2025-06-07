@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1071871633074",
+    "firebase_url": "https://finalassraytos-2dd8a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finalassraytos-2dd8a",
+    "storage_bucket": "finalassraytos-2dd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071871633074:android:293dc32ae81409489a8bab",
+        "android_client_info": {
+          "package_name": "com.FinalAssRAYTOS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCO0XRWDHeBzEpXAoO9um-0bWVbIcMzgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071871633074:android:0bb97c4021f0dba89a8bab",
+        "android_client_info": {
+          "package_name": "com.example.finalassraytos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCO0XRWDHeBzEpXAoO9um-0bWVbIcMzgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
